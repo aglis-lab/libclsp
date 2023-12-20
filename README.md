@@ -1,5 +1,7 @@
 # Libclsp
 
+## Migrate into https://github.com/aglis-lab/weasel-lsp
+
 [![AUR version](https://img.shields.io/aur/version/libclsp?style=flat-square)](https://aur.archlinux.org/packages/libclsp/)
 
 A C++17 library for
